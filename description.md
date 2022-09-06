@@ -18,3 +18,5 @@ Truffle is a developer environment, testing framework and asset pipeline for blo
 
     Migrations are used for the deployment of the code. They automatically push the contracts to the blockchain, link them           together and pass any parameters the constructor requires.
 3. __test__: Truffle provides an automated testing framework that allows us to test your contracts in two different ways: using Solidity or Javascript.
+4. __build__: After compiling the contracts, a build folder will be automatically created. The files in this folder contain important low-level information such as the __ABI__ and __bytecode__ of the smart contracts. The __address__ of the contract can also be found in these files.
+5. __truffle-config.js__: This file sets up the project's configurations. The most important elements here are __network__ and __compilers__. You can set any network like ropsten, Ganache local blockchain or even the mainnet. The network can be selected at the time of deploying: `truffle deploy --network yourNetwork`. The __solc__ compiler configurations can be modified if needed.
