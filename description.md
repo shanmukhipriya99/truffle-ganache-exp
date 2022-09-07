@@ -37,4 +37,9 @@ Truffle is a developer environment, testing framework and asset pipeline for blo
 
 <img width="728" alt="truffle migrate" src="https://user-images.githubusercontent.com/37501487/188783630-74b55937-70e3-48e8-a4ed-5ff052928cc7.png">
 
+### truffle test
+- Type `truffle test` to test the cases defined for the given smart contract.
+
+<img width="871" alt="truffle test" src="https://user-images.githubusercontent.com/37501487/188785185-a28a9c7a-c41d-4564-9ea6-de1ae8c1c9a5.png">
+
 
