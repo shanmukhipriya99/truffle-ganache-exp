@@ -23,7 +23,11 @@ Truffle is a developer environment, testing framework and asset pipeline for blo
 
 ### truffle compile
 - Type `truffle compile` in the terminal to compile the smart contracts in the contracts folder.
-image.png
+
+<img width="812" alt="truffle compile" src="https://user-images.githubusercontent.com/37501487/188782275-dafdcaf0-0d55-47a4-bfcc-be105cf0b1f1.png">
+
+
 - This compiles the original code into __Ethereum bytecode__.
 - Upon successful completion, a __.json__ file under __build/contracts__ folder is created.
-image.png
+
+<img width="316" alt="build folder" src="https://user-images.githubusercontent.com/37501487/188782089-5d96b71e-8970-4641-b0ea-a0d2e010e3b0.png">
