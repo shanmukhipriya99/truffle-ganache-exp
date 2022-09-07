@@ -31,3 +31,10 @@ Truffle is a developer environment, testing framework and asset pipeline for blo
 - Upon successful completion, a __.json__ file under __build/contracts__ folder is created.
 
 <img width="316" alt="build folder" src="https://user-images.githubusercontent.com/37501487/188782089-5d96b71e-8970-4641-b0ea-a0d2e010e3b0.png">
+
+### truffle migrate
+- Type `truffle migrate` to deploy to the network.
+
+<img width="728" alt="truffle migrate" src="https://user-images.githubusercontent.com/37501487/188783630-74b55937-70e3-48e8-a4ed-5ff052928cc7.png">
+
+
