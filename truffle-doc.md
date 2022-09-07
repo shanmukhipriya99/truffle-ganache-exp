@@ -5,3 +5,4 @@ Following are some important points from the Truffle documentation.
 - `truffle create contract <contract-name>` command allows you to create a new smart contract of the specified name.
 - `truffle compile`: compiles the smart contract.
 - `truffle migrate`: to deploy the contract in the network.
+- `truffle test`: for running tests on the smart contract.
